@@ -383,8 +383,12 @@ section.login a:hover {
   color: #b23301;
 }
 
-.noty_theme_mint {
+.noty_theme__mint {
   border-radius: 50px !important;
   padding-left: 8px !important;
+}
+
+a.link {
+  color: #FE5F1E;
 }
 
